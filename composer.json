@@ -1,0 +1,13 @@
+{
+    "name": "user/ingenieroconstrucionmaraoneirl",
+    "type": "project",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "User\\Ingenieroconstrucionmaraoneirl\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.10"
+    }
+}
